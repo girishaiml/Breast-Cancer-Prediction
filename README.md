@@ -2,7 +2,7 @@
 
 A simple machine learning project that helps doctors figure out whether a tumor is **cancerous (Malignant)** or **safe (Benign)** — just from scan measurements.
 
-No deep learning, no fancy stuff. Just clean data and a solid model that gets the job done.
+
 
 ---
 
